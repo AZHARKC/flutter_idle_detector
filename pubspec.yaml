@@ -1,6 +1,6 @@
 name: flutter_user_idle
 description: "Detect user inactivity (idle state) in Flutter apps."
-version: 0.0.1
+version: 0.1.0
 homepage: https://github.com/AZHARKC/flutter_user_idle
 repository: https://github.com/AZHARKC/flutter_user_idle
 issue_tracker: https://github.com/AZHARKC/flutter_user_idle/issues
@@ -21,8 +21,10 @@ environment:
 dependencies:
   flutter:
     sdk: flutter
+  
 
 dev_dependencies:
   flutter_test:
     sdk: flutter
   flutter_lints: ^6.0.0
+  fake_async: ^1.3.3
