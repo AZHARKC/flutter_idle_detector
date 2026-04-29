@@ -1,5 +1,5 @@
 name: flutter_user_idle
-description: "Detect user inactivity (idle state) in Flutter apps."
+description: "Detect user inactivity in Flutter apps with idle and active callbacks. Ideal for auto-logout, session timeout, and user activity tracking."
 version: 0.1.0
 homepage: https://github.com/AZHARKC/flutter_user_idle
 repository: https://github.com/AZHARKC/flutter_user_idle

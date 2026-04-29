@@ -85,14 +85,6 @@ Check the `/example` folder for a complete working demo.
 
 ---
 
-## 📸 Demo
-
-> Add your demo GIF here (recommended)
-
-![Demo](https://raw.githubusercontent.com/AZHARKC/flutter_user_idle/main/demo.gif)
-
----
-
 ## ⚙️ Parameters
 
 | Parameter | Type           | Required | Description                           |
