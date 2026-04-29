@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:flutter_idle_detector/flutter_user_idle.dart';
+import 'package:flutter_user_idle/flutter_user_idle.dart';
 
 void main() {
   runApp(const MyApp());

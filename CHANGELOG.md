@@ -1,3 +1,9 @@
+## 0.1.1
+
+- Enrich package description with keywords (auto-logout, session timeout, user activity tracking) for better pub.dev search ranking
+- Remove broken demo.gif reference from README
+- Fix example app to use the renamed `flutter_user_idle` package (pubspec dependency + import)
+
 ## 0.1.0
 
 - Add dartdoc comments to all public API elements (IdleDetector class, constructor, and all fields)
